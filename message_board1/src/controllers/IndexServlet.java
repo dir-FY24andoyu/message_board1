@@ -11,6 +11,7 @@ import javax.persistence.EntityManager;
 import models.Message;
 import utils.DBUtil;
 
+
 /**
  * Servlet implementation class IndexServlet
  */
